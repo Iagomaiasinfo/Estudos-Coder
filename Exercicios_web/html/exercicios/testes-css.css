@@ -1,0 +1,13 @@
+#show-or-hide {
+    display: none;
+}
+
+#hidis {
+    display: none;
+    /*visibility: hidden;*/
+}
+
+.tree {
+    display: none;
+}
+
